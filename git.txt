@@ -1,0 +1,6 @@
+1) What is the method signature (return type, method name, and parameters) of the last function in this blob?
+int cmd_worktree(int ac, const char **av, const char *prefix)
+
+return type: int, 
+method name:cmd_worktree, 
+parameters:ac, av, prefix
