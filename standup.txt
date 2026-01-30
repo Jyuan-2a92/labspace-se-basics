@@ -1,0 +1,9 @@
+Annalise Broerman (annalise@vt.edu)
+    1. I created the github repo for the se workshop and pushed all required files except standup.txt.
+    2. My next step is finding a classmate for the scrum meeting.
+    3. I did not do it in class because my laptop ran out battery before I saw this activity.
+
+Jiyuan Zhang (jy1229@vt.edu):
+    1. I created the github repo for the se workshop and pushed all required files except standup.txt.
+    2. My next step is finding a classmate for the scrum meeting.
+    3. I did not do it in class because my laptop ran out battery before I saw this activity.
