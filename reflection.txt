@@ -1,0 +1,5 @@
+c) Currently, I do not think the terminal-based editors have any advantage compares to the modern IDEs. Terminal-based editors used to provide syntex hightlighting and advanced commands, but the modern IDEs can also do that now and provide more convenience features. 
+
+b) I have a short experience using a terminal based editor that is similar to vi. In that course, I need to access the file and fix the securiry issue in the functions.
+
+a) Windows development environment with Visual Studio Code IDE that's what I use almost everyday. There is not a special reason I chose vsc since it is one of the popular IDEs.
