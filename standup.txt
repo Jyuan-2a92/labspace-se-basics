@@ -1,3 +1,8 @@
+Tyler Arb (wtylerarb@vt.edu):
+    1. I created the GitHub project and task management board.
+    2. My next step is working on HW0.
+    3. Issues with connecting to GitHub and starting up Docker caused me to work slower than anticipated.
+
 Annalise Broerman (annalise@vt.edu)
     1. I created the github repo for the se workshop and pushed all required files except standup.txt.
     2. My next step is finding a classmate for the scrum meeting.
